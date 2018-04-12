@@ -1,0 +1,4 @@
+bottle
+requests
+bottle-beaker
+pymysql
